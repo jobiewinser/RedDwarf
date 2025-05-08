@@ -1,0 +1,9 @@
+C:\Users\jobie\source\repos\RedDwarf\RedDwarf\obj\Debug\RedDwarf.csproj.AssemblyReference.cache
+C:\Users\jobie\source\repos\RedDwarf\RedDwarf\obj\Debug\RedDwarf.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf.dll
+C:\Users\jobie\source\repos\RedDwarf\RedDwarf\obj\Debug\RedDwarf.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf\obj\Debug\RedDwarf.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf\obj\Debug\RedDwarf.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf\obj\Debug\RedDwarf.dll
+C:\Program Files (x86)\Steam\steamapps\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RedDwarf\Assemblies\RedDwarf\obj\Debug\RedDwarf.csproj.Up2Date

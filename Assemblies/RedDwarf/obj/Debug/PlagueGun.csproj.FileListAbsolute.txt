@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PlagueGun\Assemblies\PlagueGun.dll
+C:\Users\jobie\source\repos\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.AssemblyReference.cache
+C:\Users\jobie\source\repos\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.CoreCompileInputs.cache
+C:\Users\jobie\source\repos\PlagueGun\PlagueGun\obj\Debug\PlagueGun.dll
